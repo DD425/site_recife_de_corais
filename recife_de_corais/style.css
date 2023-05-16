@@ -1,0 +1,72 @@
+/* Define as fontes padrão */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Define o estilo do cabeçalho */
+  header {
+    text-align: center;
+    margin: auto 0;
+    height: 100px;
+    background-color: #bdb7b7;
+  }
+  
+  header img {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    width: 80px;
+  }
+  
+  header h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Define o estilo dos títulos das seções */
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Define o estilo das imagens */
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+  }
+  
+  /* Define o estilo do texto */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  /* Define o estilo das seções */
+  section {
+    padding: 20px;
+    background-color: #F9F9F9;
+  }
+  
+  /* Define o estilo do link no rodapé */
+  footer a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  /* Define o estilo do rodapé */
+  footer {
+    background-color:#bdb7b7;
+    padding: 20px;
+    text-align: center;
+  }
+
+  /*#F0F0F0  #c3c3f8*/
+  
